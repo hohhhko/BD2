@@ -1,0 +1,164 @@
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\Новая папка\shiza\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\DB1\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\x86\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\x64\sqlite3.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.exe.config
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\SQLitePCLRaw.core.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Buffers.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Data.SQLite.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Memory.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Numerics.Vectors.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\Microsoft.Data.Sqlite.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Buffers.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Data.SQLite.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Memory.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Numerics.Vectors.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Form1.resources
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Form2.resources
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.csproj.CopyComplete
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.exe
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК 301.pdb
+E:\МДК 03.01\Новая папка\BD2\BD2-56223f73eb002b53b4146ae6e205e1da04d5ceb4\ЬДК 301\obj\Debug\ЬДК_301.Form3.resources
